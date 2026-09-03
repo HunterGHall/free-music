@@ -1,0 +1,20 @@
+# virtualenv
+.venv/
+
+# downloaded / local audio
+music/
+downloads/
+*.mp3
+*.m4a
+*.opus
+*.wav
+*.flac
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
